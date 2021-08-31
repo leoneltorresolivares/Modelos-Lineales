@@ -1,2 +1,2 @@
 # Modelos-Lineales
-Repositorio del curso
+Programacion de funciones de matlab para regresiones lineales
